@@ -1,0 +1,71 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Write, erase, and rewrite flawlessly with Penci, blending innovation and convenience in every stroke.",
+        "title": "Meet Penci: The Revolutionary Erasable Pen"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Write, erase, and rewrite flawlessly with Penci, blending innovation and convenience in every stroke.",
+        "title": "Meet Penci: The Revolutionary Erasable Pen"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Write, erase, and rewrite flawlessly with Penci, blending innovation and convenience in every stroke.",
+        "title": "Meet Penci: The Revolutionary Erasable Pen"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Write, erase, and rewrite flawlessly with Penci, blending innovation and convenience in every stroke.",
+        "title": "Meet Penci: The Revolutionary Erasable Pen"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Write, erase, and rewrite flawlessly with Penci, blending innovation and convenience in every stroke.",
+        "title": "Meet Penci: The Revolutionary Erasable Pen"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Write, erase, and rewrite flawlessly with Penci, blending innovation and convenience in every stroke.",
+        "title": "Meet Penci: The Revolutionary Erasable Pen"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Write, erase, and rewrite flawlessly with Penci, blending innovation and convenience in every stroke.",
+        "title": "Meet Penci: The Revolutionary Erasable Pen"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Write, erase, and rewrite flawlessly with Penci, blending innovation and convenience in every stroke.",
+        "title": "Meet Penci: The Revolutionary Erasable Pen"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Write, erase, and rewrite flawlessly with Penci, blending innovation and convenience in every stroke.",
+        "title": "Meet Penci: The Revolutionary Erasable Pen"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Meet Penci: The Revolutionary Erasable Pen",
+  "subtitle": "Write, erase, and rewrite flawlessly with Penci, blending innovation and convenience in every stroke."
+}
